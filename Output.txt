@@ -1,0 +1,5 @@
+ Celcius    Fahrenheit
+  20            68
+  23            73
+  26            78
+  29            84
